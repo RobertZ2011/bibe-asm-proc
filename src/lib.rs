@@ -1,3 +1,4 @@
+/* Copyright 2023 Robert Zieba, see LICENSE file for full license. */
 use proc_macro::TokenStream as RTokenStream;
 use proc_macro2::TokenStream;
 use quote::{ quote, ToTokens };
